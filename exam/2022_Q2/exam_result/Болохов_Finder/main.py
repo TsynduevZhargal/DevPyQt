@@ -5,7 +5,7 @@ import mmap
 import time
 import shutil
 
-from PySide2 import QtCore, QtWidgets, QtGui
+from PySide6 import QtCore, QtWidgets, QtGui
 
 from ui.search_form import Ui_MainWindow
 from ui.previewWindow import PrevieWindow
